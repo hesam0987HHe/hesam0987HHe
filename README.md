@@ -1,11 +1,11 @@
-# سلام! من حسام 👋
+# Hi there! I'm Hesam 👋
 
-من برنامه‌نویس Full-Stack و عاشق React، TailwindCSS و پروژه‌های بهینه و سریع هستم 💻✨  
-دوست دارم هر روز چیزی جدید یاد بگیرم و پروژه‌های جذاب بسازم 🚀
+I'm a Full-Stack Developer passionate about **React**, **TailwindCSS**, and building **fast & optimized projects** 💻✨  
+Always learning something new and creating impactful projects 🚀
 
 ---
 
-## 🛠️ مهارت‌ها
+## 🛠️ Skills
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -17,22 +17,22 @@
 
 ---
 
-## 📊 آمار GitHub
+## 📊 GitHub Stats
 ![Hesam's GitHub stats](https://github-readme-stats.vercel.app/api?username=hesam0987hhe&show_icons=true&theme=radical)
 
 ---
 
-## 🎯 پروژه‌ها
-- [پروژه فروشگاهی حرفه‌ای](#) 🛒
-- [پروژه چت‌بات هوش مصنوعی](#) 🤖
-- [سایت شخصی نمونه](#) 🌐
+## 🎯 Projects
+- [Professional E-commerce Project](#) 🛒
+- [AI Chatbot Project](#) 🤖
+- [Personal Portfolio Website](#) 🌐
 
 ---
 
-## 🎉 چیزای سرگرم‌کننده
+## 🎉 Fun & Coding
 ![coding](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)
 
 ---
 
-📫 با من تماس بگیر:  
+📫 Get in touch:  
 [LinkedIn](#) | [Twitter](#) | [Email](mailto:youremail@example.com)
