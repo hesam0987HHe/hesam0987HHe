@@ -1,69 +1,74 @@
-# 👋 Hi, I'm Hesam
+<!-- Hesam GitHub Profile README -->
 
-I'm a **Full-Stack Developer** passionate about **React**, **TailwindCSS**, and **building optimized & interactive apps** 🚀  
-I love exploring new technologies, creating innovative projects, and pushing my limits every day 💻✨
+<h1 align="center">Hi 👋, I'm Hesam</h1>
+<h3 align="center">A passionate Frontend Developer from Iran</h3>
 
 ---
 
-## 🛠️ Skills & Tools
+### 🚀 About Me
+- 🌱 I’m currently learning **Next.js, GSAP, and automation with Node.js**
+- 💬 Ask me about **React, TailwindCSS, and UI/UX**
+- 📫 How to reach me: **your-email@example.com**
+- ⚡ Fun fact: I love **gym 🏋️‍♂️, building startups 🚀, and coding late at night 🌙**
 
+---
+
+### 🌐 Connect with me:
+<p align="left">
+  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/your-twitter" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### 🛠 Languages and Tools:
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,express,git,github,vscode" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
-
+### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hesam0987hhe&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hesam0987hhe&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hesam0987hhe&show_icons=true&theme=tokyonight" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hesam0987hhe&theme=tokyonight" alt="streak"/>
 </p>
 
 ---
 
-## 🎯 Featured Projects
-
+### 🔥 Top Languages:
 <p align="center">
-  <a href="#">
-    <img src="https://via.placeholder.com/200x120.png?text=E-commerce" alt="E-commerce Project" title="E-commerce 🛒" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';" />
-  </a>
-  <a href="#">
-    <img src="https://via.placeholder.com/200x120.png?text=AI+Chatbot" alt="AI Chatbot" title="AI Chatbot 🤖" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';" />
-  </a>
-  <a href="#">
-    <img src="https://via.placeholder.com/200x120.png?text=Portfolio" alt="Portfolio Project" title="Portfolio 🌐" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hesam0987hhe&layout=compact&theme=tokyonight" alt="langs"/>
 </p>
 
 ---
 
-## ✨ Fun & Interactive
-
+### 🐍 Contribution Snake:
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="250" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=00F7FF&center=true&vCenter=true&width=500&lines=Creating+%3CInnovative+Projects%3E;Loving+%3CClean+Code%3E;Exploring+%3CNew+Tech%3E" />
+  <img src="https://raw.githubusercontent.com/hesam0987hhe/hesam0987hhe/output/github-contribution-grid-snake.svg" alt="snake"/>
 </p>
 
 ---
 
-## 📫 Let's Connect
-
+### 📈 Metrics
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://raw.githubusercontent.com/hesam0987hhe/hesam0987hhe/main/github-metrics.svg" alt="metrics"/>
 </p>
 
 ---
 
-*“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
+### 🚀 Featured Projects
+- **My Portfolio** → [Live Demo](#) | [Repo](#)
+- **Chat App (Laravel + React)** → [Live Demo](#) | [Repo](#)
+- **AI Telegram Bot (Node.js + Express)** → [Live Demo](#) | [Repo](#)
+
+---
+
+<h3 align="center">💡 Always building. Always learning.</h3>
