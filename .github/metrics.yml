@@ -1,0 +1,17 @@
+name: Metrics
+
+on:
+  schedule:
+    - cron: "0 * * * *"  # هر یک ساعت اجرا میشه
+  workflow_dispatch:
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          user: hesam0987HHe
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Tehran
