@@ -57,13 +57,6 @@
 
 ---
 
-### 📈 Metrics
-<p align="center">
-  <img src="https://raw.githubusercontent.com/hesam0987hhe/hesam0987hhe/main/github-metrics.svg" alt="metrics"/>
-</p>
-
----
-
 ### 🚀 Featured Projects
 - **My Portfolio** → [Live Demo](#) | [Repo](#)
 - **Chat App (Laravel + React)** → [Live Demo](#) | [Repo](#)
